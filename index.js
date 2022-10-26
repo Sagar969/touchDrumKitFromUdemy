@@ -52,7 +52,7 @@ function addStyle(currentKey) {
     activebtn.classList.add("pressed");
     setTimeout(() => {
         activebtn.classList.remove("pressed");
-    }, 100);
+    }, 50);
 }
 
 
